@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this short story from <i>New York Times</i> best-selling author Jonathan Maberry, a young soldier returns from the Middle East and discovers that there is another - and much stranger - war to be fought in his hometown. </p>"; 
