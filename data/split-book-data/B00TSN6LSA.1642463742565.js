@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this short story from <i>New York Times</i> best-selling author Jonathan Maberry, Edgar Allan Poe's brilliant amateur detective Auguste Dupin is called in to investigate a savage murder perpetrated by an invisible killer.</p>"; 
