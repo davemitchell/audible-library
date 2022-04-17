@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this chilling story from <i>New York Times</i> best-selling author Jonathan Maberry, a young paperboy discovers that a random act of kindness may have greater consequences - especially as night falls in Pine Deep. </p>"; 
