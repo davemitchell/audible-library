@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book 3 in the series. In an ancient tunnel underneath New York City a charnel house is discovered. Inside are 36 bodies all murdered and mutilated more than a century ago. While FBI agent Pendergast investigates the old crimes, identical killings start to terrorize the city. The nightmare has begun. Again. </p>"; 
