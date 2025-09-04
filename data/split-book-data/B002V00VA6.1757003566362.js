@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Los Angeles, 1948: Easy Rawlins is a black war veteran just fired from his job at a defense plant. Easy is drinking in a friend's bar, wondering how he'll meet his mortgage, when a white man in a linen suit walks in, offering good money if Easy will simply locate Miss Daphne Money, a blonde beauty known to frequent black jazz clubs."; 

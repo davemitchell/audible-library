@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Winner of the 1973 National Book Award, <i>Gravity's Rainbow</i> is a postmodern epic, a work as exhaustively significant to the second half of the 20th century as Joyce's <i>Ulysses</i> was to the first. Its sprawling, encyclopedic narrative and penetrating analysis of the impact of technology on society make it an intellectual tour de force.</p>"; 
