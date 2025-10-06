@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>So terrifying it'll leave listeners breathless... </p> <p>When a Minnesota teen is kidnapped, Doc Ford is given an unthinkable ultimatum, and only 36 hours to act on it. But there's something unusual about the boy that his captors don't even know, twisting this deadly game out of control in ways no one can imagine. </p>"; 

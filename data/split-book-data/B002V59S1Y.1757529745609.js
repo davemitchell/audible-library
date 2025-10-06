@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "When a millionaire matriarch is found floating face down in the family pool, the prime suspects are her good-for-nothing son and his seductive teenage daughter. <p>Private investigator Lew Archer takes this case in the L.A. suburbs and encounters a moral wasteland of corporate greed and family hatred - and sufficient motive for a dozen murders.</p>"; 

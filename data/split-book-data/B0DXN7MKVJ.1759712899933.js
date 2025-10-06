@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In love with Katushka—a beautiful prostitute who may be his ally or his betrayer, Stone, an American agent trained in the most sophisticated methods of debriefing, must uncover every detail about the life of Kulakov, a highly placed Russian courier who wants to defect to the United States.</p>"; 

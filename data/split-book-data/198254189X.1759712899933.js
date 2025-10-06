@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It was a double mission this time: First, to terminate a top-notch enemy agent. Second, to locate the missing fiancee of a Texas oil millionaire, lost in the Bermuda Triangle. Somehow these two cases were connected, but it wasn't clear how until more high-profile types disappeared. They weren't dead, just part of a deadly little game....</p>"; 

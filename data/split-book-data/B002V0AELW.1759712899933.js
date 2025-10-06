@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Edgar Award Winner, Best First Novel, 1983</b></p> <p>Thomas Perry's Edgar Award-winning debut novel follows a professional hitman on the run from both the mafia and the government.</p>"; 

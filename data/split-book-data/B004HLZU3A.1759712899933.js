@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "An inspirational story about how individual traits and efforts help one to rise and progress. It is the story that eloquently compares and contrasts between two characters, their attitudes, efforts and consequently their success and failure. The book remains an inspiration for those who are ready to put in efforts and move ahead in life."; 
