@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Detective Easy Rawlins returns in a mystery set in 1961 Los Angeles as Easy accepts a job searching for a beautiful woman nicknamed <i>Black Betty</i> who works as a housekeeper in Beverly Hills."; 

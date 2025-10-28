@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The irresistible Stone Barrington returns for another racy adventure from number-one </b><b><i>New York Times</i></b><b> best-selling author Stuart Woods.</b></p> <p>Stone Barrington has faced intrigue before and come out clean on the other side, but this latest turn of events might be too scandalous even for him.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>FBI Special Agents Kim Otto and Carlos Gaspar will wait no longer. They head to Houston to find Susan Duffy, one of Jack Reacher's known associates, determined to get answers. But Duffy's left town, headed for trouble. Otto and Gaspar are right behind her and powerful enemies with their backs against the wall will have everything to lose. </p>"; 

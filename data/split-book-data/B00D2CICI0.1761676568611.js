@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this ninth installment in the award-winning and <i>New York Times</i> best-selling Walt Longmire mystery series, the Wyoming sheriff follows his cowboy code of ethics in a religious range war that strikes a little too close to home.</p>"; 

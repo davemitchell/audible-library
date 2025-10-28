@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Here is another highly entertaining short story featuring Jonathan Maberry’s compelling hero, Joe Ledger.</p> <p>This short thriller takes Joe Ledger into the mysterious, troubled town of Pine Deep, Pennsylvania, the setting for Maberry’s chilling Pine Deep Trilogy. In Pine Deep, nothing is what it seems.</p>"; 

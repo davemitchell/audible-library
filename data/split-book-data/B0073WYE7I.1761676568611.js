@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this exciting seventh entry in Thomas Perry's Jane Whitefield series, Jane spirits James Shelby, a man unjustly convicted of his wife's murder, out of the criminal court building in downtown Los Angeles-but the price of Shelby's freedom is high. </p>"; 

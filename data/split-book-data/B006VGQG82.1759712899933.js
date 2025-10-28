@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Best-selling author Brad Taylor draws upon his own experiences as a Delta Force commander for his exciting series starring elite Taskforce operative Pike Logan. In <i>All Necessary Force</i>, Logan and his partner Jennifer Cahill are trailing two terrorist organizations from Asia to Egypt when a deadly threat arrives in the U.S. </p>"; 

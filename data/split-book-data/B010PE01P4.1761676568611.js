@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this follow-up to the highly successful <i>Kill Zone</i>, former marine sniper Kyle Swanson faces his most deadly enemy yet, a legendary enemy sniper working with a fringe Islamic organization that has created a terrifying new weapon of mass destruction. </p>"; 

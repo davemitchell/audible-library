@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Author of the National Book Award-winning <i>All the Pretty Horses</i>, Cormac McCarthy is one of the most provocative American stylists to emerge in the last century. The striking novel <i>Blood Meridian</i> offers an unflinching narrative of the brutality that accompanied the push west on the 1850s Texas frontier."; 

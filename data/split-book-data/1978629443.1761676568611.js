@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Assigned to track down a dishonored recon Marine who escaped from an island penitentiary after causing the death of a murderous fellow inmate, Deputy U.S. Marshal Tim Rackley investigates the underworld of a large pharmaceutical company and finds himself questioning the circumstances under which his target was convicted.</p>"; 

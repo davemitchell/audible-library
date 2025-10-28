@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Palm Beach is the most glamorous scene of the crime yet for cop-turned-investigator Stone Barrington, who becomes reacquainted with a case he thought was buried years ago and must settle romantic entanglements that haunt him still. </p>"; 

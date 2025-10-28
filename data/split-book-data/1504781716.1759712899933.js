@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>When, in the course of a week, a young heroin addict is gunned down while trying to rob a convenience store, a narcotics dealer is found hanging from a bridge, and the granddaughter of a political bigwig dies of an overdose, Vermont detective Joe Gunther vows to stop the flow of drugs into his beloved state.</p>"; 

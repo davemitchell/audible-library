@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When an executed murderer’s fingerprints turn up at a new crime scene, Kay Scarpetta investigates. Prepare for the kind of riveting suspense this best-selling author delivers so well.</p>"; 

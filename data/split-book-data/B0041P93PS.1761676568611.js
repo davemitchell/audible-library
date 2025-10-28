@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ed Eagle, the six-feet-six, take-no-prisoners Santa Fe attorney, has recovered from his encounters with Mexican organized crime and - more treacherously - his ex-wife, Barbara. Now a mysterious new client has come his way, one who may shed light into some dark corners of Ed's past...and put him in danger once more.</p>"; 

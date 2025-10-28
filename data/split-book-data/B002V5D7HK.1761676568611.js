@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>New York Times</i> best-selling author James Lee Burke's Dave Robicheaux novels began with this first hard-hitting entry in the series. <p>In <i>The Neon Rain</i>, Detective Robicheaux fishes a prostitute's corpse from a New Orleans bayou and finds that no one, not even the law, cares about a dead hooker.</p>"; 

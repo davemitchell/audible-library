@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Craig Johnson's Walt Longmire mysteries are critically acclaimed. Longmire's third outing takes him from Wyoming to Philadelphia to investigate a brutal assault on his daughter, Cady. Walt believes her ex-boyfriend is behind the crime and searches him out. But when he turns up dead, Walt is back to square one."; 

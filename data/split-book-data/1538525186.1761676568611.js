@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Someone is looking to wreck the nation's economy, and they're spending plenty to do it. With every lead going nowhere, Flynn's most dizzying logic is put to the test.</p>"; 
