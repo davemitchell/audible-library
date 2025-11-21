@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Joe Ledger returns in this tale that follows the tragic conclusion of <i>The Dragon Factory</i>.</p> <p>In the wake of a devastating personal loss, Joe Ledger and his new canine partner, Ghost, go hunting for the world’s deadliest assassin.</p>"; 

@@ -1,1 +1,0 @@
-window.collectionsJSON = [{"books":["B002VA9440","1982670843","B06XPDKFZD"],"id":"fa109f52-60a7-4b32-875c-804a740e971e","title":"Return"}];

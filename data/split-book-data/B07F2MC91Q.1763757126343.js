@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When Matt Helm is dispatched to Los Angeles to investigate the shooting of an agent, it wasn't just an assignment - it was personal.</p> <p>To get the answers he wants means run-ins with two-bit hoods, a trio of beautiful women, a bunch of drug traffickers, and his old friend Mr. Soo, whose government has ideas about polluting America to death.</p>"; 

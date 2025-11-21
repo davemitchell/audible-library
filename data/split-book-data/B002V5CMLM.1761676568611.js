@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><i>New York Times</i> best seller Stuart Woods returns with a fast-paced thriller, starring Ed Eagle, the take-no-prisoners attorney from <i>Santa Fe Rules</i> and <i>Short Straw</i>.</p>"; 

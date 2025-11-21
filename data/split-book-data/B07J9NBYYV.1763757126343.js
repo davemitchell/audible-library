@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this second volume of the two-audiobook arc that began with <i>Insurrection </i>(audiobook five), Lucas braves all odds to free his friends and in the process spawns the only hope for the nation's future: a new resistance movement that will take the battle to its enemies and drive them from its shores.</p>"; 
