@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A prison doctor injects a condemned serial killer with a formula designed to keep his consciousness awake while his body rots in the grave. But all drugs have unforeseen side-effects. Before he can be buried, the killer wakes up. Hungry. Infected. Contagious. This is the way the world ends. Not with a bang… but a bite.</p>"; 

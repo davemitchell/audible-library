@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>\"No Morning After\" was first published in 1954 in <i>Time to Come</i>. </p><p>Sir Arthur C. Clarke (1917-2008) is regarded as one of the most-influential science fiction writers of all time. He was named a Grand Master by the Science Fiction and Fantasy Writers of America, and was inducted into the Science Fiction and Fantasy Hall of Fame. </p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Matt Helm is on vacation in Mexico with nothing on his mind except fishing when some joker tries to shoot him in the back. Naturally, it was no accident - when secret agents get shot at, it never is. </p> <p>So Helm has to go back to work. At least there's a bonus in the form of his boss' beautiful daughter, a playmate in peril.</p>"; 

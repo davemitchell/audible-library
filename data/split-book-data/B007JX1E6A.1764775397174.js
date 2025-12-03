@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Award-winning author Stuart Woods has crafted a masterful novel no reader will soon forget. For years, Liz Barwick has been battered by her brutal husband, a famous pro football player. The beautiful and talented photographer retreats to an island paradise off Georgia’s coast to find solitude - and herself.</p>"; 
