@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>In this chilling story from <i>New York Times</i> best-selling author Jonathan Maberry, a cemetery worker in Pine Deep begins to suspect that the dead are not resting easy in their graves. </p>"; 

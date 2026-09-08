@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The author and former politician Jeffrey Archer has been writing for over 40 years, is published in 97 countries and in more than 33 languages. He joins Robin Morgan in the Audible Studios to talk about <i>This Was a Man</i>, the final novel in his best-selling Clifton Chronicles series. </p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Craig Johnson's mystery stories have earned him an esteemed position in the pantheon of contemporary crime novelists. In this fourth installment, Longmire is called to investigate a dead Vietnamese girl found along the Wyoming highway."; 

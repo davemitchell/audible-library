@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>From <i>New York Times</i> best-selling author Jonathan Maberry comes a semi-sequel to <i>Dead of Night</i> in which four army reservists are assigned to hold a small rural bridge during the early days of the zombie apocalypse.</p> <p>This short story was previously published in the collection <i>Hungry Tales</i>.</p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Stuart Woods, the best-selling author of <i>L.A. Times</i> and <i>Heat</i>, has created a haunting thriller full of ghostly images, murder and old family secrets. Part detective story, part ghost story, part Southern gothic - this absorbing novel will fascinate listeners as a small town’s present, past and future converge.</p>"; 

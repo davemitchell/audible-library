@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "C. J. Box's best-selling <i>Joe Pickett</i> novels have earned him a spot on every serious suspense fan's shortlist of favorites. The tightly constructed <i>Out of Range</i> brings game warden Joe to a new, remote beat in Wyoming's vast countryside to investigate the suspicious death of the previous warden."; 

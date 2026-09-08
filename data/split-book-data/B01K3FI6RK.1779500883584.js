@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Cop-turned-lawyer Stone Barrington tracks a mobster hiding deep within the witness protection program in this new thriller in the <i>New York Times</i> best-selling series - with a little help from beautiful Florida police chief Holly Barker. </p>"; 

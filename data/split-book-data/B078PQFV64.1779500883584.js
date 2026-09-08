@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Lucas embarks on a cross-country journey for what's supposed to be a simple vaccine delivery mission, but which quickly devolves into a battle to survive when he and his team become embroiled in a conspiracy so massive it will change the fate of America.</p>"; 

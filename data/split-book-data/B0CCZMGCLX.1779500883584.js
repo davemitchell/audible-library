@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Investigating the disappearance of two sisters in Florida, Dr. Kay Scarpetta follows clues that twist and turn, leading her into the psychopathic depths of a jailed serial killer’s mind.</p>"; 

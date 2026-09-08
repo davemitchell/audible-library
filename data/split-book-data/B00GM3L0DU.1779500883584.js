@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The <i>New York Times</i> best-selling author and master of the technothriller returns with his All-Star team. </b></p> <p>There's a new strong man in Russia but his rise to power is based on a dark secret hidden decades in the past. The solution to that mystery lies with a most unexpected source, President Jack Ryan.</p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "This work offers a firsthand account of the Battle of Tora Bora and an insider's look at the extraordinary nature of America's supersecret counterterrorist unit---an elite and mysterious group known as Delta Force."; 

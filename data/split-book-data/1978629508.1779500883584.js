@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>In the future, two scientists are accompanied by a team of Navy SEALs to position critical tectonic equipment on a deserted island in the Galapagos and find themselves immersed in a brutal war for survival that could determine the fate of the world.</p>"; 

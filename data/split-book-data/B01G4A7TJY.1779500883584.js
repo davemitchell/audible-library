@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Mark Dawson talks about his career as a self-published author. Providing an insight into not only his books and the marketing behind them but the process of getting them onto the Audible site. Mark also discusses the challenges of writing a crime series, how he keeps it original and how he keeps consistency throughout his work. </p>"; 

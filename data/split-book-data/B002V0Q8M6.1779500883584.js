@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Capturing all the complexity and grand themes of the original, this prequel to the Dune series weaves a new tapestry of betrayal, passion, and destiny into a saga that expands the tale written by Frank Herbert more than 30 years ago.</p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Matt Helm is unexpectedly rich, and he doesn’t like it. Twenty thousand mysterious dollars appear in his bank account, but this is no time for celebration. Another secret agent with an unexplained surplus is murdered, and Helm figures he better work out who his “benefactor” is before he becomes the next target.</p>"; 
